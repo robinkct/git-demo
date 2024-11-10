@@ -1,0 +1,3 @@
+[submodule "colab2local"]
+	path = colab2local
+	url = git@github.com:robinkct/colab2local.git
