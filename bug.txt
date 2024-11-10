@@ -1,2 +1,6 @@
 bugfix
+<<<<<<< Updated upstream
 2222222
+=======
+add something
+>>>>>>> Stashed changes
